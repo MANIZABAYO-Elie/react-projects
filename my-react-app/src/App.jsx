@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <UserGreeting isLoggedIn={false} userName="Elie" />
+      <UserGreeting isLoggedIn={true} userName="Elie" />
     </>
   )
 }
